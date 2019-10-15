@@ -7,4 +7,4 @@ Orchard messages appear as text messages in the Messages Zone. But sometimes we 
  + Call the `messages.js` from the `Layout.cshtml` file in your active theme.
  + Hide the messages with CSS, with this: `.zone-messages .message { display: none; }`
 
-Read more [here]().
+Read more [here](https://medium.com/@george.roubie/orchard-cms-convert-orchard-messages-to-toastr-notifications-with-javascript-bad1732dc9e).
